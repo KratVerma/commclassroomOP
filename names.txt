@@ -1,0 +1,3 @@
+this is my name krat.
+i will put this file in server of git.
+i am adding a third line to this text file.
